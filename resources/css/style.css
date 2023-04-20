@@ -20,3 +20,10 @@ body {
     font-size: 21px;
     color: gray;
 }
+.comming-soon {
+    margin-top: 20px;
+}
+footer {
+    text-align: right;
+    color: gray;
+}
