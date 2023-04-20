@@ -2,8 +2,11 @@ body {
     background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: normal;
     color: white;
+}
+.header-title h1 {
+    font-size: 50px;
+    font-weight: normal;
 }
 a {
     color: aquamarine;
